@@ -1,0 +1,8 @@
+{
+  "name": "Remix 3D Picture Studio",
+  "description": "Upload your photo and turn it into a stunning high-quality 3D-style image with realistic depth, lighting, and face preservation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
